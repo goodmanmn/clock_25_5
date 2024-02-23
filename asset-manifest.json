@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clock_25_5/static/css/main.0d8254d1.css",
+    "main.js": "/clock_25_5/static/js/main.578f39aa.js",
+    "static/media/alarm_sound.mp3": "/clock_25_5/static/media/alarm_sound.4fae01c5cd6dfa6e845e.mp3",
+    "index.html": "/clock_25_5/index.html",
+    "main.0d8254d1.css.map": "/clock_25_5/static/css/main.0d8254d1.css.map",
+    "main.578f39aa.js.map": "/clock_25_5/static/js/main.578f39aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d8254d1.css",
+    "static/js/main.578f39aa.js"
+  ]
+}
